@@ -1,0 +1,17 @@
+
+{
+  "name": "Briçsever",
+  "short_name": "Briçsever",
+  "description": "Profesyonel Briç Konvansiyon Rehberi ve AI Koçu",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#064e3b",
+  "theme_color": "#064e3b",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2550/2550223.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
